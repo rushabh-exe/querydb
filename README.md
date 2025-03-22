@@ -2,6 +2,13 @@
 
 querydb is a full-stack application that enables natural language interactions with databases, combining AI-powered query generation with dynamic data visualization. It bridges the gap between human language and SQL queries, making database interactions accessible to non-technical users.
 
+## Demo
+
+![graph view](./demo/graph.png)
+![pie view](./demo/pie.png)
+![list view .5](./demo/list1.png)
+![list view 1](./demo/list2.png)
+
 ## Architecture
 
 ### Backend (Python/Flask)
